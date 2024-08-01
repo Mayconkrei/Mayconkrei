@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil👋
 
-<!--
-**Mayconkrei/Mayconkrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mycon kreiner
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou aprendendo a liguagem JavaScript
+-Usarei este perfil para organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato 📫
+
+mikkreiner@gmail.com
+
+@Mayconkreiner
+
+![](https://media1.tenor.com/m/r0lP8SLg5eYAAAAd/running-quick.gif)
