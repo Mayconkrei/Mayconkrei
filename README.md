@@ -1,10 +1,10 @@
 ### Boas vindas ao meu perfil👋
 
-Meu nome é Mycon kreiner
+Meu nome é Maycon kreiner
 
--Estou estudando na Alura
--Estou aprendendo a liguagem JavaScript
--Usarei este perfil para organizar e compartilhar meus projetos
+- Estou estudando na Alura
+- Estou aprendendo a liguagem JavaScript
+- Usarei este perfil para organizar e compartilhar meus projetos
 
 ### Entre em contato 📫
 
